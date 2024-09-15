@@ -15,3 +15,6 @@ Compile and upload the board
 See images for the right connections (Atari ST) OR find out your own setup.
 
 GOOD LUCK!
+
+![Overview](overview.jpg)
+![Closeup](close_up.jpg)
