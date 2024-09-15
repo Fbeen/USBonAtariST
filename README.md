@@ -1,6 +1,11 @@
 # USB gamepad on the AtariST
 Use an Arduino Uno and a USBhostShield to connect a USB gamepad to a retro computer like Atari ST
 
+> Warnings:
+> 
+> - Not every usb gamepad will work right away. The Arduino HID libraries are limited in their capabilities.
+> - Use of this tutorial is at your own risk. I am not liable for any damages. 
+
 # Needs
 - an arduino uno board
 - an arduino USBhost shield
